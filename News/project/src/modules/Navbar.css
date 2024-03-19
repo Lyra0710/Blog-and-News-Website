@@ -1,0 +1,21 @@
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  /* Style the links if you decide to uncomment them */
+  /* a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  } */
+  
